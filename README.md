@@ -1,2 +1,2 @@
 # adc_pwm
-Módulo ADC PWM
+Módulo ADC + PWM
